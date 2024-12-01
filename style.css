@@ -1,0 +1,46 @@
+body {
+    background: #000;
+    color: white;
+}
+
+.heading {
+    text-align: center;
+}
+
+.main-container {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+button {
+    padding: 20px;
+    margin: 0 2px;
+    border: 2px solid wheat;
+    border-radius: 20px;
+    width: 57px;
+
+}
+
+.rows {
+    padding: 0.5%;
+    margin: 4px 19;
+
+}.rows-input{
+    padding: 12px;
+
+}
+
+
+.input {
+    margin: 0%;
+    padding: 10px 38px;
+    border: 2px solid wheat;
+    border-radius: 5px;
+
+}
+.button .yellow{
+    background: rgba(167, 167, 5, 0.885);
+}
